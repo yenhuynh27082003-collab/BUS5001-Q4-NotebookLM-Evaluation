@@ -2,87 +2,47 @@
 
 ### Prompt
 
-Using only the uploaded assessment brief and rubric, compare the assessment requirements with the HD grading expectations. Present the answer in a table with three columns: requirement, evidence needed, and how to achieve a high distinction. Cite the relevant source for each row.
-
+Create a concise study guide from the uploaded sources. Organise it into key concepts, practical tasks, evidence required and common risks. Use only the uploaded sources.
 ### Result
 
-Here is the comparison between the assessment requirements, the required submission evidence, and the expectations to achieve a High Distinction (Grade A: 80–100%) based on the assessment brief and rubric:
-Requirement
-Evidence Needed
-How to Achieve a High Distinction (HD)
-Q1: ESG Chatbot Design & Implementation (17 Marks)<br>• Select a focused ESG/sustainability use case
-.<br>• Describe 5 ESG chatbot functionalities and their organizational value
-.<br>• Evaluate ethics, governance, privacy, and accessibility
-.<br>• Prototype a Dialogflow flow with 3–5 intents, entity parameters, routing logic, fallback handling, and escalation pathways
-.<br>• Record an executive video demonstration (under 2 minutes)
+Here is a study guide synthesized directly from your assessment overview and rubric documents:
+1. Key Concepts
+Cloud Service & Deployment Models: Classifying enterprise environments into SaaS, PaaS, or IaaS, mapping deployment structures, and defining security boundaries via the Shared Responsibility Model
 .
-• Written report section Q1
-.<br>• Dialogflow screenshots (flows, pages, intents, entities, routing, fallback)
-.<br>• Simple conversation map/flow diagram and sample transcripts
-.<br>• Accessible Microsoft Stream or Echo365 video link
+Conversational AI Architecture: Designing intent-driven conversational flows in Dialogflow (utilising intents, entities, parameters, decision pathways, fallback logic, and escalation triggers) and linking chatbots conceptually to enterprise cloud processes
 .
-• Articulate a highly realistic ESG use case strongly connected to enterprise operations or sustainability goals
-.<br>• Deeply integrate ethical, privacy, governance, and accessibility principles into the design
-.<br>• Build a sophisticated, user-centered Dialogflow CX conversation flow with clear branching, parameter extraction, and escalation logic
-.<br>• Present a polished, professional executive video explaining workflow rationale
-.<br>• Conceptually link the chatbot to broader cloud workflows (e.g., ticket creation, facilities escalation, or ESG reporting dashboards)
+LLM Message Triage & Prompt Design: Structuring prompts to extract standardized JSON payloads (issue category, urgency, sentiment, follow-up flags, and team allocation) and evaluating model performance against rule-based or zero-shot baselines
 .
-Q2: Cloud Security Incident Audit (8 Marks)<br>• Analyze a real-world cloud or hybrid security failure from the past 5 years
-.<br>• Detail the incident summary, affected entities, compromised data, and root cause
-.<br>• Classify architecture (SaaS, PaaS, or IaaS) and map the Shared Responsibility Model breakdown
-.<br>• Propose 3–5 preventative controls using native cloud platform tools
+AI Productivity & Academic Evaluation: Evaluating cloud-based note-taking platforms like NotebookLM across academic and policy workflows, balancing capability against accuracy, hallucination risks, and over-reliance
 .
-• Written report section Q2
-.<br>• Detailed root cause and incident breakdown
-.<br>• Visual cloud architecture/component diagram
-.<br>• Shared responsibility model analysis and cloud tool recommendations
+Responsible AI & Cloud Governance: Integrating ethics, user consent, data minimisation, privacy controls, accessibility, human oversight, and regulatory compliance into cloud-enabled ESG platforms
 .
-• Deliver an insightful, evidence-based analysis of the incident, affected systems, root causes, and organizational impact
-.<br>• Demonstrate mastery of cloud architecture, deployment models, IAM, misconfigurations, and shared responsibility
-.<br>• Recommend preventative controls that are actionable, technically sound, and strongly aligned with cloud-native security capabilities and governance practices
+2. Practical Tasks
+Task 1 (Q1, 17 Marks) — Dialogflow ESG Chatbot: Select a targeted ESG use case (e.g. incident reporting or energy guidance), describe five chatbot functionalities, address ethics/governance/accessibility, prototype a Dialogflow flow with 3–5 intents and routing logic, and record a <2 minute executive video
 .
-Q3: LLM Operational Message Triage (7 Marks)<br>• Prototype an LLM system to classify operational ESG messages into structured JSON payloads
-.<br>• Revise the prompt template and test 2–3 operational ESG messages on an LLM
-.<br>• Benchmark LLM outputs against a rule-based or Hugging Face zero-shot baseline
-.<br>• Critically evaluate hallucination risks, bias, data protection, and human oversight
-.<br>• Outline an Azure cloud deployment architecture
+Task 2 (Q2, 8 Marks) — Cloud Security Audit: Investigate a real-world cloud or hybrid security breach from the past five years, detail compromised data/systems, map the SaaS/PaaS/IaaS architecture and shared responsibility split, and recommend 3–5 preventative cloud platform controls
 .
-• Written report section Q3
-.<br>• Revised prompt template and generated JSON extraction outputs
-.<br>• Baseline comparison data (Hugging Face or rule-based)
-.<br>• Azure cloud architecture description/diagram
-.<br>• Experiment logs hosted in the GitHub repository
+Task 3 (Q3, 7 Marks) — LLM Operational Message Triage: Refine a JSON prompt template, test operational ESG messages on an LLM, benchmark classification performance against a Hugging Face or rule-based baseline, evaluate operational risks, and design an Azure cloud deployment architecture
 .
-• Create a highly effective, contextually appropriate prompt that reliably generates structured JSON
-.<br>• Conduct a rigorous and insightful comparison against baseline models, analyzing consistency and error modes
-.<br>• Provide deep critical analysis of operational risks (hallucinations, escalation boundaries, bias, data privacy, and oversight)
-.<br>• Offer actionable deployment recommendations supported by a realistic Azure cloud architecture
+Task 4 (Q4, 8 Marks) — NotebookLM Feasibility Study: Demonstrate key academic/ESG workflows in Google's NotebookLM, critically analyze output accuracy and operational limitations, and log experimental results in a GitHub repository
 .
-Q4: Cloud AI Assistant Evaluation (NotebookLM) (8 Marks)<br>• Evaluate Google's NotebookLM in a university or ESG academic scenario
-.<br>• Identify core functionalities aligning with academic activities
-.<br>• Demonstrate features across a simulated academic/research workflow
-.<br>• Critically analyze capabilities based on accuracy, workflow usefulness, limitations, hallucination risks, evidence quality, and over-reliance
+3. Evidence Required
+Written Report: A report formatted with APA 7 citations and clear section headings for Q1, Q2, Q3, and Q4, supported by architecture diagrams, screenshots, and tables
 .
-• Written report section Q4
-.<br>• Workflow demonstration evidence and scenarios
-.<br>• Evidence-based critical evaluation of accuracy and limitations
-.<br>• GitHub repository link containing complete experiment logs
+Executive Demonstration Video: A short demonstration video (under 2 minutes) introducing the chatbot and workflow rationale, hosted on Microsoft Stream or Echo365 with marker access enabled
 .
-• Conduct a comprehensive, in-depth evaluation using rich, contextual academic or ESG scenarios
-.<br>• Deliver a balanced, evidence-based critical analysis highlighting output accuracy, limitations, hallucination risks, and over-reliance
-.<br>• Maintain a highly organized, professionally documented GitHub repository containing complete experimental logs
+Dialogflow Implementation Screenshots: Clear screenshots showing conversation flows, pages, intents, entities, routing rules, and sample transcripts
 .
-Overall Professional Submission & Governance (General Expectations)<br>• Individual report formatted with clear section headings (Q1–Q4) and APA 7 citations
-.<br>• Submit an AI Acknowledgement Form under the AI Exploration category
-.<br>• Verify marker access for all external links
+GitHub Repository: A link to an accessible GitHub repository containing experiment logs, prompt test outputs, and evidence for Q3 and Q4
 .
-• Final PDF report submitted via LMS
-.<br>• Completed AI Acknowledgement Form
-.<br>• Verified links for Microsoft Stream/Echo365 video and GitHub repository
+AI Acknowledgement Form: A completed AI acknowledgement form declaring permissible generative AI usage under the AI Exploration category
 .
-• Communicate using professional, professional-grade language tailored for senior management
-.<br>• Deeply embed ethical considerations, privacy, accessibility, and governance across all four tasks
-.<br>• Ensure all visual diagrams, screenshots, prompt logs, and GitHub documentation are thoroughly detailed and accessible
+4. Common Risks
+Generative AI & LLM Risks: Unverified AI outputs, hallucinations, algorithmic bias, data privacy breaches, lack of human oversight, and misrouting sensitive operational escalations
 .
-💡 Would you like me to help you outline the Azure architecture diagram components for Q3 or review a sample prompt template to ensure it meets the structured JSON requirements?
-Create a clear academic mind map from the uploaded assessment brief and rubric. Organise it around Q1, Q2, Q3 and Q4. For each question, show the main task, required evidence, key risks and expectations for achieving a High Distinction. Use only the uploaded sources.
+Conversational Design Failures: Broken user journeys, missing fallback responses, uncaptured entity parameters, and failure to integrate inclusive or accessible design features
+.
+Cloud Security & Configuration Gaps: Infrastructure misconfigurations, improper identity and access management (IAM), missing audit logs, and misunderstandings of shared responsibility boundaries
+.
+Logistical & Submission Risks: Submitting broken links for the video or GitHub repo, exceeding the 2-minute video cutoff, missing required AI acknowledgement forms, or omitting prompt JSON fields
+.
