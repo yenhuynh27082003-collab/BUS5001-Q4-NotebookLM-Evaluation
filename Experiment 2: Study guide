@@ -1,0 +1,88 @@
+## Experiment 2: Study guide
+
+### Prompt
+
+Using only the uploaded assessment brief and rubric, compare the assessment requirements with the HD grading expectations. Present the answer in a table with three columns: requirement, evidence needed, and how to achieve a high distinction. Cite the relevant source for each row.
+
+### Result
+
+Here is the comparison between the assessment requirements, the required submission evidence, and the expectations to achieve a High Distinction (Grade A: 80–100%) based on the assessment brief and rubric:
+Requirement
+Evidence Needed
+How to Achieve a High Distinction (HD)
+Q1: ESG Chatbot Design & Implementation (17 Marks)<br>• Select a focused ESG/sustainability use case
+.<br>• Describe 5 ESG chatbot functionalities and their organizational value
+.<br>• Evaluate ethics, governance, privacy, and accessibility
+.<br>• Prototype a Dialogflow flow with 3–5 intents, entity parameters, routing logic, fallback handling, and escalation pathways
+.<br>• Record an executive video demonstration (under 2 minutes)
+.
+• Written report section Q1
+.<br>• Dialogflow screenshots (flows, pages, intents, entities, routing, fallback)
+.<br>• Simple conversation map/flow diagram and sample transcripts
+.<br>• Accessible Microsoft Stream or Echo365 video link
+.
+• Articulate a highly realistic ESG use case strongly connected to enterprise operations or sustainability goals
+.<br>• Deeply integrate ethical, privacy, governance, and accessibility principles into the design
+.<br>• Build a sophisticated, user-centered Dialogflow CX conversation flow with clear branching, parameter extraction, and escalation logic
+.<br>• Present a polished, professional executive video explaining workflow rationale
+.<br>• Conceptually link the chatbot to broader cloud workflows (e.g., ticket creation, facilities escalation, or ESG reporting dashboards)
+.
+Q2: Cloud Security Incident Audit (8 Marks)<br>• Analyze a real-world cloud or hybrid security failure from the past 5 years
+.<br>• Detail the incident summary, affected entities, compromised data, and root cause
+.<br>• Classify architecture (SaaS, PaaS, or IaaS) and map the Shared Responsibility Model breakdown
+.<br>• Propose 3–5 preventative controls using native cloud platform tools
+.
+• Written report section Q2
+.<br>• Detailed root cause and incident breakdown
+.<br>• Visual cloud architecture/component diagram
+.<br>• Shared responsibility model analysis and cloud tool recommendations
+.
+• Deliver an insightful, evidence-based analysis of the incident, affected systems, root causes, and organizational impact
+.<br>• Demonstrate mastery of cloud architecture, deployment models, IAM, misconfigurations, and shared responsibility
+.<br>• Recommend preventative controls that are actionable, technically sound, and strongly aligned with cloud-native security capabilities and governance practices
+.
+Q3: LLM Operational Message Triage (7 Marks)<br>• Prototype an LLM system to classify operational ESG messages into structured JSON payloads
+.<br>• Revise the prompt template and test 2–3 operational ESG messages on an LLM
+.<br>• Benchmark LLM outputs against a rule-based or Hugging Face zero-shot baseline
+.<br>• Critically evaluate hallucination risks, bias, data protection, and human oversight
+.<br>• Outline an Azure cloud deployment architecture
+.
+• Written report section Q3
+.<br>• Revised prompt template and generated JSON extraction outputs
+.<br>• Baseline comparison data (Hugging Face or rule-based)
+.<br>• Azure cloud architecture description/diagram
+.<br>• Experiment logs hosted in the GitHub repository
+.
+• Create a highly effective, contextually appropriate prompt that reliably generates structured JSON
+.<br>• Conduct a rigorous and insightful comparison against baseline models, analyzing consistency and error modes
+.<br>• Provide deep critical analysis of operational risks (hallucinations, escalation boundaries, bias, data privacy, and oversight)
+.<br>• Offer actionable deployment recommendations supported by a realistic Azure cloud architecture
+.
+Q4: Cloud AI Assistant Evaluation (NotebookLM) (8 Marks)<br>• Evaluate Google's NotebookLM in a university or ESG academic scenario
+.<br>• Identify core functionalities aligning with academic activities
+.<br>• Demonstrate features across a simulated academic/research workflow
+.<br>• Critically analyze capabilities based on accuracy, workflow usefulness, limitations, hallucination risks, evidence quality, and over-reliance
+.
+• Written report section Q4
+.<br>• Workflow demonstration evidence and scenarios
+.<br>• Evidence-based critical evaluation of accuracy and limitations
+.<br>• GitHub repository link containing complete experiment logs
+.
+• Conduct a comprehensive, in-depth evaluation using rich, contextual academic or ESG scenarios
+.<br>• Deliver a balanced, evidence-based critical analysis highlighting output accuracy, limitations, hallucination risks, and over-reliance
+.<br>• Maintain a highly organized, professionally documented GitHub repository containing complete experimental logs
+.
+Overall Professional Submission & Governance (General Expectations)<br>• Individual report formatted with clear section headings (Q1–Q4) and APA 7 citations
+.<br>• Submit an AI Acknowledgement Form under the AI Exploration category
+.<br>• Verify marker access for all external links
+.
+• Final PDF report submitted via LMS
+.<br>• Completed AI Acknowledgement Form
+.<br>• Verified links for Microsoft Stream/Echo365 video and GitHub repository
+.
+• Communicate using professional, professional-grade language tailored for senior management
+.<br>• Deeply embed ethical considerations, privacy, accessibility, and governance across all four tasks
+.<br>• Ensure all visual diagrams, screenshots, prompt logs, and GitHub documentation are thoroughly detailed and accessible
+.
+💡 Would you like me to help you outline the Azure architecture diagram components for Q3 or review a sample prompt template to ensure it meets the structured JSON requirements?
+Create a clear academic mind map from the uploaded assessment brief and rubric. Organise it around Q1, Q2, Q3 and Q4. For each question, show the main task, required evidence, key risks and expectations for achieving a High Distinction. Use only the uploaded sources.
